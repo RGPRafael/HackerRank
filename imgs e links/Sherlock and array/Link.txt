@@ -1,0 +1,1 @@
+https://github.com/RGPRafael/HackerRank/blob/main/Easy/Sherlock_array.py
