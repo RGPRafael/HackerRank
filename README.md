@@ -1,6 +1,6 @@
 # Solved:
 User
-- [Beautiful Pairs](**Beautiful-Pairs**)
+- [Beautiful Pairs](#**Beautiful-Pairs**)
 - [Candles](**Candles**)
 - [Fair Rations](**Fair-Rations**)
 - [Jim and the Orders](**Jim-and-the-Orders**)
