@@ -1,4 +1,34 @@
 # Solved:
+- [Beautiful Pairs](**Beautiful-Pairs**)
+- [Candles](**Candles**)
+- [Fair Rations](**Fair-Rations**)
+- [Jim and the Orders](**Jim-and-the-Orders**)
+- [Luck Balance](**Luck-Balance**)
+- [Sherlock and The Beast](**Sherlock-and-The-Beast**)
+- [Beautiful Binary String](**Beautiful-Binary-String**)
+- [Sherlock and Array](**Jumping-on-the-Clouds**)
+- [Save the Prisoner!](**Jumping-on-the-Clouds**)
+- [String Construction](**Jumping-on-the-Clouds**)
+- [Repeated String](**Jumping-on-the-Clouds**)
+- [Hackerland Radio Transmitters](**Jumping-on-the-Clouds**)
+- [Priyanka and Toys](**Jumping-on-the-Clouds**)
+- [Picking Numbers](**Jumping-on-the-Clouds**)
+- [Pangrams](**Jumping-on-the-Clouds**)
+- [Minimum Distances](**Jumping-on-the-Clouds**)
+- [Mars Exploration](**Jumping-on-the-Clouds**)
+- [Mark and Toys](**Jumping-on-the-Clouds**)
+- [Gemstones](**Jumping-on-the-Clouds**)
+- [Library Fine](**Jumping-on-the-Clouds**)
+- [The Love-Letter Mystery](**Jumping-on-the-Clouds**)
+- [Greedy Florist](**Jumping-on-the-Clouds**)
+- [Counting Valleys](**Jumping-on-the-Clouds**)
+- [CamelCase](**Jumping-on-the-Clouds**)
+- [Happy Ladybugs](**Jumping-on-the-Clouds**)
+- [Beautiful Triplets](**Jumping-on-the-Clouds**)
+- [Strange Counter](**Jumping-on-the-Clouds**)
+- [Taum and B'day](**Taum-and-B'day**)
+
+[Unsolved](**Unsolved**)
 
 **Beautiful Pairs**  
 https://www.hackerrank.com/challenges/beautiful-pairs/problem  
@@ -18,13 +48,13 @@ https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 ![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Jumping%20On%20Clouds/Jumping%20On%20Clouds%20Enunciado.png)
 [Solution](https://github.com/RGPRafael/HackerRank/blob/main/Easy/Clouds_again.py)  
 
-Beautiful Binary String**  
+**Beautiful Binary String**  
 https://www.hackerrank.com/challenges/beautiful-binary-string/problem  
 
 ![](caminho até a imagem)
 []()  
 
-Fair Rations**   
+**Fair Rations**   
 https://www.hackerrank.com/challenges/fair-rations/problem  
 
 ![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Fair%20Rations/FR%20Enunciado.png)
@@ -143,8 +173,8 @@ https://www.hackerrank.com/challenges/gem-stones/problem
 **Library Fine**  
 https://www.hackerrank.com/challenges/library-fine/problem  
 
-![](caminho até a imagem)
-[Solution]()  
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Library%20Fine/Enunciado.png)
+[Solution](https://github.com/RGPRafael/HackerRank/blob/main/Problems/librarfine.py)  
 
 **The Love-Letter Mystery**  
 https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions  
@@ -155,38 +185,38 @@ https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions
 **Greedy Florist**  
 https://www.hackerrank.com/challenges/greedy-florist/problem  
 
-![](caminho até a imagem)
-[Solution]()  
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Greedy%20Florist/Enunicado.png)  
+[Solution](https://github.com/RGPRafael/HackerRank/blob/main/Problems/florist_gredy.py)    
 
 **Counting Valleys**  
 https://www.hackerrank.com/challenges/counting-valleys/problem  
 
-![](caminho até a imagem)
-[Solution]()  
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Counting%20Valleys/Enunciado.png)  
+[Solution](https://github.com/RGPRafael/HackerRank/blob/main/Easy/conting_vales.py)  
 
 **CamelCase**  
 https://www.hackerrank.com/challenges/camelcase/problem  
 
-![](caminho até a imagem)
-[Solution]()  
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Camelcase/Enunciado.png)  
+[Solution](httpsgithub.comRGPRafaelHackerRankblobmainProblemscamelcase.py)  
 
 **Happy Ladybugs**  
 https://www.hackerrank.com/challenges/happy-ladybugs/submissions  
 
-![](caminho até a imagem)
-[Solution]()  
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Happy%20LadyBugs/Enunciado.png)  
+[Solution](https://github.com/RGPRafael/HackerRank/blob/main/Problems/bugs.py)  
 
 **Beautiful Triplets**  
 https://www.hackerrank.com/challenges/beautiful-triplets/problem  
 
-![](caminho até a imagem)
-[Solution]() 
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Beautiful%20Triplets/Enunciado.png)  
+[Solution](httpsgithub.comRGPRafaelHackerRankblobmainProblemsbeautiflTriples.py) 
 
 **Strange Counter**  
 https://www.hackerrank.com/challenges/strange-code/problem  
 
-![](caminho até a imagem)
-[Solution]() 
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Strange%20conter/Enunciado.png)  
+[Solution](https://github.com/RGPRafael/HackerRank/blob/main/Problems/Strange_code.py)  
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
 
