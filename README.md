@@ -1,34 +1,33 @@
 # Solved:
-| Nome do Problema                        | Link do Problema                               |
-|----------------------------------------|-----------------------------------------------|
-| Beautiful Pairs                        | [Beautiful-Pairs](**Beautiful-Pairs**)       |
-| Candles                                | [Candles](**Candles**)                       |
-| Fair Rations                           | [Fair-Rations](**Fair-Rations**)             |
-| Jim and the Orders                     | [Jim-and-the-Orders](**Jim-and-the-Orders**) |
-| Luck Balance                           | [Luck-Balance](**Luck-Balance**)             |
-| Sherlock and The Beast                 | [Sherlock-and-The-Beast](**Sherlock-and-The-Beast**) |
-| Beautiful Binary String                | [Beautiful-Binary-String](**Beautiful-Binary-String**) |
-| Sherlock and Array                     | [Sherlock-and-Array](**Sherlock-and-Array**) |
-| Save the Prisoner!                     | [Save-the-Prisoner!](**Save-the-Prisoner!**) |
-| String Construction                    | [String-Construction](**String-Construction**) |
-| Repeated String                        | [Repeated-String](**Repeated-String**)       |
-| Hackerland Radio Transmitters          | [Hackerland-Radio-Transmitters](**Hackerland-Radio-Transmitters**) |
-| Priyanka and Toys                      | [Priyanka-and-Toys](**Priyanka-and-Toys**)   |
-| Picking Numbers                        | [Picking-Numbers](**Picking-Numbers**)       |
-| Pangrams                               | [Pangrams](**Pangrams**)                     |
-| Minimum Distances                      | [Minimum-Distances](**Minimum-Distances**)   |
-| Mars Exploration                       | [Mars-Exploration](**Mars-Exploration**)     |
-| Mark and Toys                          | [Mark-and-Toys](**Mark-and-Toys**)           |
-| Gemstones                              | [Gemstones](**Gemstones**)                   |
-| Library Fine                           | [Library-Fine](**Library-Fine**)             |
-| The Love-Letter Mystery                | [The-Love-Letter-Mystery](**The-Love-Letter-Mystery**) |
-| Greedy Florist                         | [Greedy-Florist](**Greedy-Florist**)         |
-| Counting Valleys                       | [Counting-Valleys](**Counting-Valleys**)     |
-| CamelCase                              | [CamelCase](**CamelCase**)                   |
-| Happy Ladybugs                         | [Happy-Ladybugs](**Happy-Ladybugs**)         |
-| Beautiful Triplets                     | [Beautiful-Triplets](**Beautiful-Triplets**) |
-| Strange Counter                        | [Strange-Counter](**Strange-Counter**)       |
-| Taum and B'day                         | [Taum-and-B'day](**Taum-and-B'day**)         |
+User
+- [Beautiful Pairs](**Beautiful-Pairs**)
+- [Candles](**Candles**)
+- [Fair Rations](**Fair-Rations**)
+- [Jim and the Orders](**Jim-and-the-Orders**)
+- [Luck Balance](**Luck-Balance**)
+- [Sherlock and The Beast](**Sherlock-and-The-Beast**)
+- [Beautiful Binary String](**Beautiful-Binary-String**)
+- [Sherlock and Array](**Jumping-on-the-Clouds**)
+- [Save the Prisoner!](**Jumping-on-the-Clouds**)
+- [String Construction](**Jumping-on-the-Clouds**)
+- [Repeated String](**Jumping-on-the-Clouds**)
+- [Hackerland Radio Transmitters](**Jumping-on-the-Clouds**)
+- [Priyanka and Toys](**Jumping-on-the-Clouds**)
+- [Picking Numbers](**Jumping-on-the-Clouds**)
+- [Pangrams](**Jumping-on-the-Clouds**)
+- [Minimum Distances](**Jumping-on-the-Clouds**)
+- [Mars Exploration](**Jumping-on-the-Clouds**)
+- [Mark and Toys](**Jumping-on-the-Clouds**)
+- [Gemstones](**Jumping-on-the-Clouds**)
+- [Library Fine](**Jumping-on-the-Clouds**)
+- [The Love-Letter Mystery](**Jumping-on-the-Clouds**)
+- [Greedy Florist](**Jumping-on-the-Clouds**)
+- [Counting Valleys](**Jumping-on-the-Clouds**)
+- [CamelCase](**Jumping-on-the-Clouds**)
+- [Happy Ladybugs](**Jumping-on-the-Clouds**)
+- [Beautiful Triplets](**Jumping-on-the-Clouds**)
+- [Strange Counter](**Jumping-on-the-Clouds**)
+- [Taum and B'day](**Taum-and-B'day**)
 ``
 
 
