@@ -59,7 +59,8 @@
 ### **Beautiful Binary String**
 [Link do Problema](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
 
-![](caminho até a imagem)
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/Beautiful%20Binary%20String/BBS%20Enunciado.png)  
+[Solução](https://github.com/RGPRafael/HackerRank/blob/main/Problems/Beautiful_Binary_String.py)
 
 ### **Fair Rations**
 [Link do Problema](https://www.hackerrank.com/challenges/fair-rations/problem)
@@ -106,7 +107,8 @@
 ### **String Construction**
 [Link do Problema](https://www.hackerrank.com/challenges/string-construction/problem)
 
-![](caminho até a imagem)
+![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/String%20construction/Enunciado.png)  
+[Solução](https://github.com/RGPRafael/HackerRank/blob/main/Problems/str_constr.py)
 
 ### **Taum and B'day**
 [Link do Problema](https://www.hackerrank.com/challenges/taum-and-bday/problem)
@@ -177,10 +179,7 @@
 [Solução](https://github.com/RGPRafael/HackerRank/blob/main/Problems/mark_toys.py)
 
 ### **Gemstones**
-[Link do Problema](https://www.hackerrank.com/challenges/gem-stones/problem)
-
-![](caminho até a imagem)
-
+[Link do Problema](https://www.hackerrank.com/challenges/gem-stones/problem)  
 [Solução](https://github.com/RGPRafael/HackerRank/blob/main/Problems/gemstone.py)
 
 ### **Library Fine**
@@ -192,10 +191,7 @@
 
 ### **The Love-Letter Mystery**
 [Link do Problema](https://www.hackerrank.com/challenges/the-love-letter-mystery/submissions)
-
-![](caminho até a imagem)
-
-[Solução]()
+[Solução](https://github.com/RGPRafael/HackerRank/blob/main/Problems/love_letter.py)
 
 ### **Greedy Florist**
 [Link do Problema](https://www.hackerrank.com/challenges/greedy-florist/problem)
