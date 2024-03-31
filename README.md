@@ -1,34 +1,36 @@
 # Solved:
-| Nome do Problema                        | Link do Problema                        |
-|----------------------------------------|----------------------------------------|
-| Beautiful Pairs                        | [Beautiful Pairs](#Beautiful-Pairs)    |
-| Candles                                | [Candles](#Candles)                    |
-| Fair Rations                           | [Fair Rations](#Fair-Rations)          |
-| Jim and the Orders                     | [Jim and the Orders](#Jim-and-the-Orders) |
-| Luck Balance                           | [Luck Balance](#Luck-Balance)          |
-| Sherlock and The Beast                 | [Sherlock and The Beast](#Sherlock-and-The-Beast) |
-| Beautiful Binary String                | [Beautiful Binary String](#Beautiful-Binary-String) |
-| Sherlock and Array                     | [Sherlock and Array](#Sherlock-and-Array) |
-| Save the Prisoner!                     | [Save the Prisoner!](#Save-the-Prisoner!) |
-| String Construction                    | [String Construction](#String-Construction) |
-| Repeated String                        | [Repeated String](#Repeated-String)    |
-| Hackerland Radio Transmitters          | [Hackerland Radio Transmitters](#Hackerland-Radio-Transmitters) |
-| Priyanka and Toys                      | [Priyanka and Toys](#Priyanka-and-Toys) |
-| Picking Numbers                        | [Picking Numbers](#Picking-Numbers)    |
-| Pangrams                               | [Pangrams](#Pangrams)                  |
-| Minimum Distances                      | [Minimum Distances](#Minimum-Distances) |
-| Mars Exploration                       | [Mars Exploration](#Mars-Exploration)  |
-| Mark and Toys                          | [Mark and Toys](#Mark-and-Toys)        |
-| Gemstones                              | [Gemstones](#Gemstones)                |
-| Library Fine                           | [Library Fine](#Library-Fine)          |
-| The Love-Letter Mystery                | [The Love-Letter Mystery](#The-Love-Letter-Mystery) |
-| Greedy Florist                         | [Greedy Florist](#Greedy-Florist)      |
-| Counting Valleys                       | [Counting Valleys](#Counting-Valleys)  |
-| CamelCase                              | [CamelCase](#CamelCase)                |
-| Happy Ladybugs                         | [Happy Ladybugs](#Happy-Ladybugs)      |
-| Beautiful Triplets                     | [Beautiful Triplets](#Beautiful-Triplets) |
-| Strange Counter                        | [Strange Counter](#Strange-Counter)    |
-| Taum and B'day                         | [Taum and B'day](#Taum-and-B'day)      |
+| Nome do Problema                        | Link do Problema                               |
+|----------------------------------------|-----------------------------------------------|
+| Beautiful Pairs                        | [Beautiful-Pairs](**Beautiful-Pairs**)       |
+| Candles                                | [Candles](**Candles**)                       |
+| Fair Rations                           | [Fair-Rations](**Fair-Rations**)             |
+| Jim and the Orders                     | [Jim-and-the-Orders](**Jim-and-the-Orders**) |
+| Luck Balance                           | [Luck-Balance](**Luck-Balance**)             |
+| Sherlock and The Beast                 | [Sherlock-and-The-Beast](**Sherlock-and-The-Beast**) |
+| Beautiful Binary String                | [Beautiful-Binary-String](**Beautiful-Binary-String**) |
+| Sherlock and Array                     | [Sherlock-and-Array](**Sherlock-and-Array**) |
+| Save the Prisoner!                     | [Save-the-Prisoner!](**Save-the-Prisoner!**) |
+| String Construction                    | [String-Construction](**String-Construction**) |
+| Repeated String                        | [Repeated-String](**Repeated-String**)       |
+| Hackerland Radio Transmitters          | [Hackerland-Radio-Transmitters](**Hackerland-Radio-Transmitters**) |
+| Priyanka and Toys                      | [Priyanka-and-Toys](**Priyanka-and-Toys**)   |
+| Picking Numbers                        | [Picking-Numbers](**Picking-Numbers**)       |
+| Pangrams                               | [Pangrams](**Pangrams**)                     |
+| Minimum Distances                      | [Minimum-Distances](**Minimum-Distances**)   |
+| Mars Exploration                       | [Mars-Exploration](**Mars-Exploration**)     |
+| Mark and Toys                          | [Mark-and-Toys](**Mark-and-Toys**)           |
+| Gemstones                              | [Gemstones](**Gemstones**)                   |
+| Library Fine                           | [Library-Fine](**Library-Fine**)             |
+| The Love-Letter Mystery                | [The-Love-Letter-Mystery](**The-Love-Letter-Mystery**) |
+| Greedy Florist                         | [Greedy-Florist](**Greedy-Florist**)         |
+| Counting Valleys                       | [Counting-Valleys](**Counting-Valleys**)     |
+| CamelCase                              | [CamelCase](**CamelCase**)                   |
+| Happy Ladybugs                         | [Happy-Ladybugs](**Happy-Ladybugs**)         |
+| Beautiful Triplets                     | [Beautiful-Triplets](**Beautiful-Triplets**) |
+| Strange Counter                        | [Strange-Counter](**Strange-Counter**)       |
+| Taum and B'day                         | [Taum-and-B'day](**Taum-and-B'day**)         |
+``
+
 
 
 
