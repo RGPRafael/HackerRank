@@ -1,6 +1,6 @@
 # Solved:
 User
-- [Beautiful Pairs](#Beautiful Pairs)
+- [Beautiful Pairs](#**beautiful-pairs**)
 - [Candles](**Candles**)
 - [Fair Rations](**Fair-Rations**)
 - [Jim and the Orders](**Jim-and-the-Orders**)
@@ -35,7 +35,7 @@ User
 
 [Unsolved](**Unsolved**)
 
-**Beautiful Pairs**  
+## **Beautiful Pairs**  
 https://www.hackerrank.com/challenges/beautiful-pairs/problem  
 
 ![](https://github.com/RGPRafael/HackerRank/blob/main/imgs%20e%20links/BeatifulPairs/Beautiful%20Pairs%20Enunciado.png)  
